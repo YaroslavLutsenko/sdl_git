@@ -12,5 +12,14 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         // some line for develop
+        // line for feature 1
+        // line for feature 2
+        // line for feature 3
+        // line for feature 4
+        // line for feature 5
+        // line for feature 6
+        // line for feature 7
+        // line for feature 8
+        // line for feature 9
     }
 }
