@@ -13,5 +13,6 @@ public class MainActivity extends AppCompatActivity {
 
         // some line for develop
         // line for feature 1
+        // line for feature 2
     }
 }
